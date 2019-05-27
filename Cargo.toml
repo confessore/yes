@@ -1,0 +1,7 @@
+[package]
+name = "yes"
+version = "0.1.0"
+authors = ["Steven Confessore <steven.confessore@gmail.com>"]
+edition = "2018"
+
+[dependencies]
